@@ -1,7 +1,11 @@
 canvas {
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
+}
+.landing-page{
+  height: 50vh;
+  background-color: aqua;
 }
 /* 
 :root {
